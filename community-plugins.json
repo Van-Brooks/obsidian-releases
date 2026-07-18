@@ -40682,5 +40682,12 @@
     "author": "zhangyuting",
     "description": "Local-first task execution, focus sessions, reviews, and reusable experience. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "879076256/task-companion"
+  },
+  {
+    "id": "hermes-chat",
+    "name": "Hermes Chat",
+    "author": "Van-Brooks",
+    "description": "AI-powered sidebar chat. Select text, right-click to ask, insert replies into notes.",
+    "repo": "Van-Brooks/obsidian-hermes-chat"
   }
 ]
